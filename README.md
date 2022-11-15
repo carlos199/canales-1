@@ -78,11 +78,11 @@ http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/140185
 #EXTINF:-1 tvg-id="I572.49141.zap2it.com" tvg-name="MTV LIVE" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv_live_hd_us.png" group-title="âš¡ï¸ENCODER DISPOSITIVOS 4K ",MTV LIVE
 http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/140186
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 5 HD HON" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal5_el_lider.png" group-title="HONDURAS",CANAL 5 HD HON
-http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/59358
-
 #EXTINF:-1 tvg-id="I599.72294.schedulesdirect.org" tvg-name="Teen Nick" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teen_nick_us.png" group-title="âš¡ï¸ENCODER DISPOSITIVOS 4K ",Teen Nick
 http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/140147
 
 #EXTINF:-1 tvg-id="" tvg-name="BitMe SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bitme-mx.png" group-title="MEXICO",BitMe SD
 http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/59160
+
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="Canal 5 HD Mexico" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal_5_mx.png" group-title="âš¡ï¸ENCODER DISPOSITIVOS 4K ",Canal 5 HD Mexico
+http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/140213
